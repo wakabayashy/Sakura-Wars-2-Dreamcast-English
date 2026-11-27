@@ -28,7 +28,7 @@ As the work advances, this repository will be updated with confirmed information
 
 ## Testing and Feedback
 
-A public Beta has not been announced yet. When a testing phase is ready, information about access and feedback will be shared through the team Discord.
+A public Beta has not been announced yet. When a testing phase is ready, information about access and feedback will be shared through my Discord server.
 
 Useful reports should include:
 
@@ -47,7 +47,7 @@ For project updates and future testing announcements:
 
 ## Project Credits
 
-**Team / project release:** wakabayashy
+**Project / release:** wakabayashy
 
 Translation and editing are ongoing. Further contributor credits will be added as the project develops.
 
